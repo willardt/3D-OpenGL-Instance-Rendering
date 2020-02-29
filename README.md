@@ -1,6 +1,8 @@
 # 3D-OpenGL-Particles
 3D (OpenGL) C++ Particle System 
 
+OpenGL Instance Rendering  
+
 **Video #1** - https://www.youtube.com/watch?v=0AiiDVGqkcI  
 **Video #2** - https://www.youtube.com/watch?v=WDD7tOYwtJU  
 
