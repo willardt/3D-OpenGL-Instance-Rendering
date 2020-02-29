@@ -1,0 +1,16 @@
+
+.vs/Instancing/v15/.suo
+.gitattributes
+*.db
+*.opendb
+*.ipch
+*.ilk
+*.pdb
+*.sln
+*.obj
+*.log
+*.tlog
+*.idb
+*.vcxproj
+*.filters
+*.user
