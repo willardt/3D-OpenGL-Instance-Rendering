@@ -3,7 +3,7 @@
 
 OpenGL Instance Rendering  
 
-**Video #1** - https://www.youtube.com/embed/0AiiDVGqkcI 
+**Video #1** - https://www.youtube.com/embed/0AiiDVGqkcI  
 **Video #2** - https://www.youtube.com/watch?v=WDD7tOYwtJU  
 
 **Screenshots**  
