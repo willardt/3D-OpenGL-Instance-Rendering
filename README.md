@@ -1,5 +1,5 @@
-# 3D-OpenGL-Particles
-3D (OpenGL) C++ Particle System 
+# 3D-OpenGL-Instance Rendering
+3D (OpenGL) C++ Instance Rendering
 
 OpenGL Instance Rendering  
 
